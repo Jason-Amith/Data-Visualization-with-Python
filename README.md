@@ -1,4 +1,4 @@
-This repositiry has implementations of various data visualization libraries that display immigration dynamics of Canada by citizenship.
+This repositiry has implementations of various data visualization libraries such as matplotlib, folium and seaborn that display immigration dynamics of Canada by citizenship.
 
 Courtesy of Alex Aklson.
 
