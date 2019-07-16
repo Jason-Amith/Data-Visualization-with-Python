@@ -2,4 +2,4 @@ This repositiry has implementations of various data visualization libraries such
 
 Courtesy of Alex Aklson.
 
-Incase, the .ipynb file is not rendering please copy it's git url and view it in https://nbviewer.jupyter.org/
+Incase, the .ipynb file is not rendering or the map outputs aren't displaying, please copy it's git url and view it in https://nbviewer.jupyter.org/
